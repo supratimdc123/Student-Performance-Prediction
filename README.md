@@ -1,10 +1,10 @@
 # 🎓 Student Performance Prediction
 
-A machine learning project to predict whether a student will pass or fail based on various academic and demographic features.
+A machine learning project to predict whether a student will pass or fail in mathematics based on various academic features.
 
 ## 🚀 Overview
 
-- Trained ML models on student data (study time, failures, internet access, etc.)
+- Trained ML models on student data
 - Built a web app using Flask for user-friendly predictions
 - Useful for early identification of at-risk students
 
@@ -12,8 +12,6 @@ A machine learning project to predict whether a student will pass or fail based 
 
 - Python, Scikit-learn, Pandas, Matplotlib
 - Flask for web app
-- HTML/CSS for UI
-- Deployment via Render/Heroku
 
 ## 📁 Structure
 
@@ -43,7 +41,7 @@ Visit: http://127.0.0.1:5000/
 
 
 ## 📌 Dataset
-Source: Kaggle - Student Performance
+Source: Kaggle - Student Performance/Custom Dataset
 
 ## 📄 License
 MIT License
